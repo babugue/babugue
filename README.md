@@ -1,5 +1,5 @@
 
-# Gregory Rocha
+# Gregory Rocha da Silva
 
 ## Olá pessoal 👋
 Sou apaixonado pelo mundo do desenvolvimento web, mobile, programação, tecnologias e games. :computer:
