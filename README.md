@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 
 # Gregory Rocha
 
@@ -13,4 +11,4 @@ Sou apaixonado pelo mundo da desenvolvimento web, mobile, tecnologia e games. :c
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, pixel art, LoL, seriados, animes, mangas, livros e novels.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Gregory-Rocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregory-rocha/)](https://www.linkedin.com/in/gregory-rocha/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-justgregoryrocha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:justgregoryrocha@gmail.com)](mailto:justgregoryrocha@gmail.com)
