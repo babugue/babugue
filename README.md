@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**babugue/babugue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Gregory Rocha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou apaixonado pelo mundo da desenvolvimento web, mobile, tecnologia e games. :computer:
+
+ :rocket:  &nbsp; Estou no momento sem desempregado e **Estudando** muita programação
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-End
+ <br/> :blush: &nbsp; Posso te ajudar com 
+ <br/> :computer: &nbsp; Minha stack: 
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, pixel art, LoL, seriados, animes, mangas, livros e novels.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Gregory-Rocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregory-rocha/)](https://www.linkedin.com/in/gregory-rocha/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
