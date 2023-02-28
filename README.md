@@ -50,7 +50,7 @@
 
 -  📖 **Under construction**\
 📆 0000 - 2023\
-📍 **Kind of a Big Deal** - Anchorman: The Legend of Ron Burgundy, Someplace
+📍 **Kind of a Big Deal** - Campinas, Brazil
 
 -->
   
@@ -62,6 +62,11 @@
 📆 2022 - moment\
 📍 **Gregory Rocha da Silva** - Campinas/SP, Brazil
   
+<!--## Portfolio
+
+<img align="right" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
+-->
+  
 ## Skills
 
 **Operating Systems**
@@ -69,6 +74,8 @@
   
 **Programming**
 <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   
 **Languages**
 <img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
