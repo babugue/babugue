@@ -42,11 +42,22 @@
   📫 How to reach me: <a href='mailto:justgregoryrocha@gmail.com'>justgregoryrocha@gmail.com</a>
 </p>
 
-<p align='center'>
-  🎮 You can start a <a href='https://www.chess.com/member/babugue'>♟Chess game</a> with me, my actual
-<img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating is&query=%24.chess_daily.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fbabugue%2Fstats'/>
-  </p>
-
 <details>
   <summary>📃 Resume</summary>
 
+
+## Education
+
+-  📖 **Under construction**\
+📆 0000 - 2023\
+📍 **Kind of a Big Deal** - Anchorman: The Legend of Ron Burgundy, Someplace
+
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 🎨 **Freelancer Graphic Designer**\
+📆 2022 - moment\
+📍 **Gregory Rocha da Silva** - Campinas/SP, Brazil
+  
