@@ -56,7 +56,7 @@
   
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 
 - 🎨 **Freelancer Graphic Designer**\
 📆 2022 - moment\
