@@ -87,7 +87,7 @@
   
 **Languages**
 <img align="right" src="https://img.shields.io/badge/English-C1-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
-<img align="right" src="https://img.shields.io/badge/Brazilian Portuguese-mother tongue-green??logo=data:image/png;base64,https://cdn-icons-png.flaticon.com/512/206/206597.png" />
+<img align="right" src="https://img.shields.io/badge/Brazilian Portuguese-mother tongue-green?logo=data:image/png;base64, https://cdn-icons-png.flaticon.com/512/206/206597.png" />
 
 </details>
 
