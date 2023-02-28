@@ -14,7 +14,7 @@
   <a href="https://twitter.com/JustBabugue">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/JustBabugue">
+  <a href="https://www.instagram.com/babugue/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -87,7 +87,6 @@
   
 **Languages**
 <img align="right" src="https://img.shields.io/badge/English-C1-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
-<img align="right" src="https://img.shields.io/badge/Brazilian Portuguese-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
 <img align="right" src="https://raster.shields.io/badge/Brazilian Portuguese-mother tongue-green?logo=data:https://cdn-icons-png.flaticon.com/512/206/206597.png" />
 
 </details>
