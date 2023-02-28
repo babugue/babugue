@@ -76,6 +76,7 @@
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
   
 **Softwares**
+<img align="right" src="https://aleen42.github.io/badges/src/illustrator.svg" />
 <img align="right" src="https://aleen42.github.io/badges/src/photoshop.svg" />
   
 **Programming**
